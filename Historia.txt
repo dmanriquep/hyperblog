@@ -2,4 +2,6 @@ Este es un archivo de prueba con checkout en Git
 
 Experimento 1
 
+Experimento 2
+
 Master 1
